@@ -1,0 +1,850 @@
+{
+  "@context": [
+    "https://geojson.org/geojson-ld/geojson-context.jsonld",
+    {
+      "schema": "https://schema.org/",
+      "@base": "https://amsterdamtimemachine.github.io/routes/",
+      "title": "schema:name",
+      "description": "schema:description",
+      "image": {
+        "@id": "schema:image",
+        "@type": "@id"
+      },
+      "url": {
+        "@id": "schema:url",
+        "@type": "@id"
+      }
+    }
+  ],
+  "id": "https://amsterdamtimemachine.github.io/routes/2025_geoweek.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896075977432927,
+          52.36945308649684
+        ]
+      },
+      "properties": {
+        "title": "Oudemanhuispoort",
+        "image": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/ce65ccaf-09a1-2bf3-8309-d1c1ed87abb2/iiif/3/38709812/full/512,/0/default.jpg",
+        "description": "Oudemanhuispoort (vaak afgekort als: OMHP) is een gebouwencomplex in Amsterdam, tussen het Spui en het Waterlooplein. Het is een van de hoofdlocaties van de Universiteit van Amsterdam, de faculteit der geesteswetenschappen is er gevestigd. Het is in de 17e eeuw gebouwd in carrévorm en werd oorspronkelijk gebruikt als Oude mannen en vrouwen gasthuis, het is beschermd als rijksmonument. In een van de vier vleugels is een doorgang die de Oudezijds Achterburgwal aan de westzijde verbindt met de Kloveniersburgwal aan de oostzijde, de poort aan de Oostzijde van deze doorgang is naamgever van het gebouwencomplex. ",
+        "url": "https://adamlink.nl/geo/street/oudemanhuispoort/3399"
+      },
+      "id": "48ec95bd-bde4-4583-b2ac-fa8c88524ae8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.898010916021396,
+          52.37098352040861
+        ]
+      },
+      "properties": {
+        "title": "Oost-Indisch Huis",
+        "image": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/57ce55aa-b571-7f6c-5042-12fb740ca5c1/iiif/3/57371636/full/512,/0/default.jpg",
+        "description": "Het Oost-Indisch Huis is een gebouw in het centrum van Amsterdam aan de Oude Hoogstraat 24, dat als bestuurs- en administratiekantoor diende voor de Amsterdamse kamer van de Vereenigde Oostindische Compagnie (VOC). Naast de vergaderingen van de 20 bewindhebbers van de Amsterdamse kamer, vonden hier ook meestal de vergaderingen plaats van de Heren XVII, de 17 leden tellende centrale directie van de VOC.\nHet Oost-Indisch Huis was het eerste gebouw dat speciaal voor de VOC gebouwd werd. Naast het vergaderen werden hier ook scheepsbemanningen geronseld en de archieven en kaarten van de VOC bewaard.\nEen poort met Toscaanse halfzuilen aan de Oude Hoogstraat leidt via een tunneltje naar een binnenplaats met sierlijke gevels. De gevels op de binnenplaats zijn in Amsterdamse renaissance-stijl, typerend voor de stadsarchitect Hendrick de Keyser, die het gebouw (waarschijnlijk) heeft ontworpen. ",
+        "url": "https://adamlink.nl/geo/building/oost-indisch-huis/284"
+      },
+      "id": "75e67972-0cc1-46f5-ab27-ee331ebfb002"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900322879241188,
+          52.37277314578968
+        ]
+      },
+      "properties": {
+        "title": "De Waag",
+        "image": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/3dd1436e-ea6f-c449-54eb-9af64b914909/iiif/3/57370263/full/512,/0/default.jpg",
+        "description": "De Waag is een 15e-eeuws gebouw op de Nieuwmarkt in het centrum van Amsterdam. Het was oorspronkelijk een stadspoort. De huidige naam verwijst naar de latere functie als waag.\nHet gebouw heeft een reeks andere functies gehad, waaronder gildehuis, museum, brandweerkazerne en anatomisch theater. Sinds 1996 is er de Stichting Waag gevestigd, met horeca op de begane grond. ",
+        "url": "https://adamlink.nl/geo/building/sint-antoniespoort/36"
+      },
+      "id": "71c33177-8efb-43c2-bb58-d514652646ac"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901300286787284,
+          52.36951749147715
+        ]
+      },
+      "properties": {
+        "title": "St. Anthoniesluis",
+        "image": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/70803d9e-8527-11e4-a043-b39d8fb2e944/iiif/3/57702880/full/512,/0/default.jpg",
+        "description": "",
+        "url": "https://adamlink.nl/geo/street/sint-antoniesluis/4097"
+      },
+      "id": "74af3851-6735-4b1d-8a94-5f1dd5fcbe52"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899388574925764,
+          52.36798504605311
+        ]
+      },
+      "properties": {
+        "title": "Vlooienburg",
+        "image": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b3040275-ddc9-a1ae-3e26-7a090b2d6de4/iiif/3/57817538/full/512,/0/default.jpg",
+        "description": "Vlooienburg (oorspronkelijk: 'Vloonburch') is een voormalig aangelegd eiland in Amsterdam. Het is in navolging van Uilenburg, Marken en Rapenburg in het kader van de tweede uitleg vanaf 1593 in een ondiepte van de Amstel aangeplempt. De Stopera is sinds de naoorlogse sloop van de bebouwing het enige pand op Vlooienburg.",
+        "url": "http://www.wikidata.org/entity/Q2497556"
+      },
+      "id": "49ce1fca-52a0-4a94-8e2c-bce999120074"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893211325687986,
+          52.36705668584554
+        ]
+      },
+      "properties": {
+        "title": "De Munt",
+        "image": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9cd8441b-bd2d-e1d8-f523-5bcdd68525dd/iiif/3/57798262/full/512,/0/default.jpg",
+        "description": "De Munttoren, ook wel De Munt genoemd, heet officieel Regulierstoren en maakte vroeger deel uit van de Regulierspoort. Deze stadspoort was een van de drie hoofdpoorten van de middeleeuwse vestingwerken van Amsterdam. De poort was genoemd naar het Reguliersklooster (1394-1532). Dit klooster stond ter hoogte van de latere Keizersgracht buiten de Regulierspoort.\nDe toren staat op het Muntplein, dat tot 1877 Schapenplein en van 1877 tot 1917 Sophiaplein heette (naar koningin Sophie). Het is tegenwoordig een druk kruispunt tussen Kalverstraat en Reguliersbreestraat, vlak bij de bloemenmarkt op het Singel. Naast de toren onder de kleine poort door gaat men richting Kalverstraat of Reguliersbreestraat. ",
+        "url": "https://adamlink.nl/geo/building/munttoren/164"
+      },
+      "id": "0b0c3520-8f93-4caf-a06d-38bf12e21f98"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893026374726599,
+          52.36873129753895
+        ]
+      },
+      "properties": {
+        "title": "Allard Pierson",
+        "image": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/701dc682-8527-11e4-bc1a-cfa9c4045e9d/iiif/3/57681895/full/512,/0/default.jpg",
+        "description": "Het Allard Pierson Museum is een archeologiemuseum in Nederland, gevestigd in het pand Oude Turfmarkt 127 te Amsterdam. Het museum is een onderdeel van de Universiteit van Amsterdam, en behoort met zijn omvangrijke en gevarieerde verzameling tot de voornaamste oudheidkundige musea in Nederland. ",
+        "url": "https://adamlink.nl/geo/building/de-nederlandsche-bank/1253"
+      },
+      "id": "8da6c539-d865-4a7d-90f7-33f554eee2bd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.892926980925778,
+            52.368701770380014
+          ],
+          [
+            4.892896072448127,
+            52.36867953966298
+          ],
+          [
+            4.8929128362545296,
+            52.36865702130578
+          ],
+          [
+            4.892977,
+            52.368575
+          ],
+          [
+            4.893167,
+            52.368394
+          ],
+          [
+            4.893452,
+            52.368152
+          ],
+          [
+            4.893531250196954,
+            52.36817256846107
+          ],
+          [
+            4.89382495208409,
+            52.36829498764298
+          ],
+          [
+            4.893857809144521,
+            52.3683715506377
+          ],
+          [
+            4.893815876349947,
+            52.36842502445816
+          ],
+          [
+            4.893822269875153,
+            52.36843787783081
+          ],
+          [
+            4.893877255160038,
+            52.36846817540433
+          ],
+          [
+            4.894011365610698,
+            52.36846776597789
+          ],
+          [
+            4.894034834939493,
+            52.36843828725765
+          ],
+          [
+            4.89401807113332,
+            52.368398163412245
+          ],
+          [
+            4.893960403639346,
+            52.36837359777472
+          ],
+          [
+            4.893841715890314,
+            52.3682867990796
+          ],
+          [
+            4.893581362377045,
+            52.36818028303408
+          ],
+          [
+            4.893542649585177,
+            52.36815987615182
+          ],
+          [
+            4.8935394217709645,
+            52.36812160433501
+          ],
+          [
+            4.894058018683435,
+            52.36769386510931
+          ],
+          [
+            4.894832,
+            52.367964
+          ],
+          [
+            4.895893,
+            52.368363
+          ],
+          [
+            4.895943,
+            52.368387
+          ],
+          [
+            4.896009853080841,
+            52.368429394189086
+          ],
+          [
+            4.896109041966767,
+            52.36842701917303
+          ],
+          [
+            4.896229,
+            52.368391
+          ],
+          [
+            4.896327,
+            52.368358
+          ],
+          [
+            4.896392,
+            52.368335
+          ],
+          [
+            4.896511,
+            52.368318
+          ],
+          [
+            4.896568,
+            52.368309
+          ],
+          [
+            4.896612,
+            52.368302
+          ],
+          [
+            4.897467,
+            52.368251
+          ],
+          [
+            4.89752,
+            52.368242
+          ],
+          [
+            4.897592,
+            52.368238
+          ],
+          [
+            4.897675,
+            52.368232
+          ],
+          [
+            4.897758,
+            52.368226
+          ],
+          [
+            4.897823,
+            52.368223
+          ],
+          [
+            4.89792,
+            52.368218
+          ],
+          [
+            4.898205,
+            52.368198
+          ],
+          [
+            4.898594,
+            52.368174
+          ],
+          [
+            4.898686,
+            52.368162
+          ],
+          [
+            4.898729,
+            52.368154
+          ],
+          [
+            4.898856,
+            52.368129
+          ],
+          [
+            4.899223,
+            52.368054
+          ],
+          [
+            4.899306052664927,
+            52.368045760418774
+          ],
+          [
+            4.899466226145734,
+            52.36805282107979
+          ],
+          [
+            4.899685538734694,
+            52.368198026225706
+          ],
+          [
+            4.900101,
+            52.368575
+          ],
+          [
+            4.900344,
+            52.368794
+          ],
+          [
+            4.900658,
+            52.369077
+          ],
+          [
+            4.900691,
+            52.369063
+          ],
+          [
+            4.900691,
+            52.369063
+          ],
+          [
+            4.901367,
+            52.368786
+          ],
+          [
+            4.901877,
+            52.368582
+          ],
+          [
+            4.902129,
+            52.368802
+          ],
+          [
+            4.902128,
+            52.368801
+          ],
+          [
+            4.902325,
+            52.368973
+          ],
+          [
+            4.902381,
+            52.369022
+          ],
+          [
+            4.902438,
+            52.369077
+          ],
+          [
+            4.90249,
+            52.369134
+          ],
+          [
+            4.902274,
+            52.369223
+          ],
+          [
+            4.901605,
+            52.3695
+          ],
+          [
+            4.901496,
+            52.369545
+          ],
+          [
+            4.901448,
+            52.369564
+          ],
+          [
+            4.901321386283208,
+            52.36958622199798
+          ],
+          [
+            4.901153198654448,
+            52.369570866542816
+          ],
+          [
+            4.901015,
+            52.369643
+          ],
+          [
+            4.900954,
+            52.369681
+          ],
+          [
+            4.901198,
+            52.369827
+          ],
+          [
+            4.901241,
+            52.369859
+          ],
+          [
+            4.901524,
+            52.370034
+          ],
+          [
+            4.901228651195871,
+            52.37043383297206
+          ],
+          [
+            4.901228651195871,
+            52.37046986088875
+          ],
+          [
+            4.901261,
+            52.370507
+          ],
+          [
+            4.901342,
+            52.370532
+          ],
+          [
+            4.901375938632237,
+            52.370565393865945
+          ],
+          [
+            4.901278895388726,
+            52.37070363900733
+          ],
+          [
+            4.901283589254608,
+            52.3707351632435
+          ],
+          [
+            4.901305717478985,
+            52.370751539461125
+          ],
+          [
+            4.901406970869139,
+            52.370804762126674
+          ],
+          [
+            4.9016600384826505,
+            52.37093485583152
+          ],
+          [
+            4.901635228049183,
+            52.370963514078944
+          ],
+          [
+            4.90158963049601,
+            52.37100854843008
+          ],
+          [
+            4.9015762194507655,
+            52.371047032293816
+          ],
+          [
+            4.901553936097886,
+            52.37106945820463
+          ],
+          [
+            4.9014774931409715,
+            52.37117426509965
+          ],
+          [
+            4.90119736220575,
+            52.371112606974265
+          ],
+          [
+            4.901052,
+            52.371109
+          ],
+          [
+            4.901052,
+            52.371109
+          ],
+          [
+            4.901033,
+            52.371108
+          ],
+          [
+            4.901008,
+            52.371456
+          ],
+          [
+            4.901246,
+            52.371502
+          ],
+          [
+            4.901268715188077,
+            52.37153091034721
+          ],
+          [
+            4.901071646060588,
+            52.37182867885902
+          ],
+          [
+            4.900911921620465,
+            52.37209894027547
+          ],
+          [
+            4.900496470610343,
+            52.372045675167506
+          ],
+          [
+            4.900527793535236,
+            52.372101033028926
+          ],
+          [
+            4.900369433764591,
+            52.372132849086995
+          ],
+          [
+            4.900606381087578,
+            52.372501450282996
+          ],
+          [
+            4.900487638436322,
+            52.37260114015598
+          ],
+          [
+            4.900086852066238,
+            52.37242874389702
+          ],
+          [
+            4.8997135082595955,
+            52.372433726625914
+          ],
+          [
+            4.8995979245944055,
+            52.37229959731662
+          ],
+          [
+            4.899524637761467,
+            52.37224298283637
+          ],
+          [
+            4.899461820475993,
+            52.372170844925726
+          ],
+          [
+            4.899152220998075,
+            52.371779106619535
+          ],
+          [
+            4.898926377900712,
+            52.37152707734117
+          ],
+          [
+            4.898743009199682,
+            52.37131452514706
+          ],
+          [
+            4.898513009776642,
+            52.3710598775208
+          ],
+          [
+            4.89815694652993,
+            52.37115485880061
+          ],
+          [
+            4.898075809707109,
+            52.371054964690444
+          ],
+          [
+            4.898004,
+            52.371074
+          ],
+          [
+            4.898005,
+            52.371075
+          ],
+          [
+            4.898005,
+            52.371075
+          ],
+          [
+            4.897947734226773,
+            52.37095097631944
+          ],
+          [
+            4.898026188840403,
+            52.37092927792774
+          ],
+          [
+            4.898084526886472,
+            52.37105209887254
+          ],
+          [
+            4.898155438060684,
+            52.371132778075975
+          ],
+          [
+            4.898477348202479,
+            52.37104733419993
+          ],
+          [
+            4.898104001486423,
+            52.37065727728918
+          ],
+          [
+            4.897731814231653,
+            52.37027358818332
+          ],
+          [
+            4.89734622329849,
+            52.36989142526632
+          ],
+          [
+            4.896976397893601,
+            52.36950072949977
+          ],
+          [
+            4.896698715102045,
+            52.36923662011471
+          ],
+          [
+            4.896646,
+            52.369234
+          ],
+          [
+            4.896033301559421,
+            52.36930426503531
+          ],
+          [
+            4.896043359843227,
+            52.36937591326365
+          ],
+          [
+            4.896087,
+            52.369372
+          ],
+          [
+            4.896144,
+            52.369384
+          ],
+          [
+            4.896178,
+            52.369402
+          ],
+          [
+            4.896178,
+            52.369402
+          ],
+          [
+            4.896203,
+            52.369433
+          ],
+          [
+            4.896206,
+            52.369461
+          ],
+          [
+            4.896206,
+            52.369461
+          ],
+          [
+            4.896178,
+            52.369502
+          ],
+          [
+            4.896155,
+            52.369516
+          ],
+          [
+            4.896114,
+            52.369529
+          ],
+          [
+            4.896075,
+            52.369533
+          ],
+          [
+            4.896002,
+            52.369519
+          ],
+          [
+            4.895958,
+            52.36949
+          ],
+          [
+            4.895945,
+            52.369463
+          ],
+          [
+            4.895945,
+            52.369438
+          ],
+          [
+            4.895967,
+            52.369407
+          ],
+          [
+            4.895999,
+            52.369387
+          ],
+          [
+            4.896035983768231,
+            52.36937673209997
+          ],
+          [
+            4.8960219021709435,
+            52.36930549329164
+          ],
+          [
+            4.895604,
+            52.369363
+          ],
+          [
+            4.895567,
+            52.369367
+          ],
+          [
+            4.895467257776848,
+            52.36937962485754
+          ],
+          [
+            4.895374,
+            52.369392
+          ],
+          [
+            4.895374,
+            52.369392
+          ],
+          [
+            4.895193,
+            52.369416
+          ],
+          [
+            4.895139,
+            52.369423
+          ],
+          [
+            4.894961,
+            52.369239
+          ],
+          [
+            4.894926414047116,
+            52.369183780092584
+          ],
+          [
+            4.894870223925676,
+            52.369160484483196
+          ],
+          [
+            4.894839700896775,
+            52.36913973020277
+          ],
+          [
+            4.894723,
+            52.369133
+          ],
+          [
+            4.89464,
+            52.369117
+          ],
+          [
+            4.894609,
+            52.369092
+          ],
+          [
+            4.894597,
+            52.369064
+          ],
+          [
+            4.8945656159570445,
+            52.36894914499466
+          ],
+          [
+            4.8944978560907915,
+            52.368910358312604
+          ],
+          [
+            4.894101,
+            52.368895
+          ],
+          [
+            4.893799,
+            52.368888
+          ],
+          [
+            4.89351,
+            52.368872
+          ],
+          [
+            4.893322,
+            52.368898
+          ],
+          [
+            4.893007,
+            52.368891
+          ],
+          [
+            4.8929,
+            52.368864
+          ],
+          [
+            4.892795,
+            52.368842
+          ],
+          [
+            4.892846451581421,
+            52.368750370056866
+          ],
+          [
+            4.8928799791940225,
+            52.36872130094941
+          ],
+          [
+            4.892922957612246,
+            52.36871159656363
+          ]
+        ]
+      },
+      "properties": {
+        "title": "GeoWeek 2025",
+        "description": "Een wandeling door het centrum van Amsterdam langs historische gebouwen en iconische locaties. Testroute voor Allmaps Here. Teksten en afbeeldingen afkomstig uit het Stadsarchief Amsterdam, Adamlink en Wikipedia."
+      }
+    }
+  ]
+}
