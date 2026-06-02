@@ -16,7 +16,7 @@
       }
     }
   ],
-  "id": "https://amsterdamtimemachine.github.io/routes/queer_locations.json",
+  "id": "https://amsterdamtimemachine.github.io/routes/2026_pride.json",
   "type": "FeatureCollection",
   "features": [
     {
@@ -154,6 +154,17 @@
         "url": "https://marineterrein.nl/"
       },
       "id": "7c85747d-23c6-48fa-abe1-b0ee1849fb89"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "properties": {
+        "title": "2026 World Pride",
+        "description": ""
+      }
     }
   ]
 }
