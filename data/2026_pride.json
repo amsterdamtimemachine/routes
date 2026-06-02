@@ -1,0 +1,159 @@
+{
+  "@context": [
+    "https://geojson.org/geojson-ld/geojson-context.jsonld",
+    {
+      "schema": "https://schema.org/",
+      "@base": "https://amsterdamtimemachine.github.io/routes/",
+      "title": "schema:name",
+      "description": "schema:description",
+      "image": {
+        "@id": "schema:image",
+        "@type": "@id"
+      },
+      "url": {
+        "@id": "schema:url",
+        "@type": "@id"
+      }
+    }
+  ],
+  "id": "https://amsterdamtimemachine.github.io/routes/queer_locations.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90089,
+          52.37484
+        ]
+      },
+      "properties": {
+        "title": "Café 't Mandje",
+        "image": "https://image.parool.nl/180292638/feature-crop/1200/900/interieur-vol-memorabilia-bet-van-beeren-de-koningin-van-de",
+        "description": "Café 't Mandje is een historische bruine kroeg die in 1927 werd geopend door de openlijk lesbische Bet van Beeren. Het groeide uit tot een veilige ontmoetingsplek voor homo’s, lesbiennes en andere kleurrijke bezoekers in een tijd waarin dat uitzonderlijk was.",
+        "url": "https://www.cafetmandje.amsterdam/"
+      },
+      "id": "5f5f6e26-38ab-4e9e-8b2b-bd5ee548163b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871935,
+          52.367765
+        ]
+      },
+      "properties": {
+        "title": "Vereniging De Trut",
+        "image": "https://image.parool.nl/130176712/width/2480/vooral-het-gezeik-over-de-vaste-trutregels-door-een-oppervlakkige",
+        "description": "Vereniging De Trut is een iconische, anti-commerciële queer vereniging en club in Amsterdam opgericht in 1985, volledig door vrijwilligers gerund. Elke zondag organiseert de vereniging het bekende Trut-feest, een laagdrempelige en inclusieve uitgaansavond voor de LGBTQIA+-gemeenschap. Telefoons moeten bij binnenkomst worden uitgezet. De opbrengsten van de feesten worden via het Trutfonds ingezet ter ondersteuning van LGBTQIA+-initiatieven en maatschappelijke projecten.",
+        "url": "https://www.trutfonds.nl/"
+      },
+      "id": "62bc22e3-e33f-4f75-905f-bf5528bd8a06"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8856099,
+          52.3652096
+        ]
+      },
+      "properties": {
+        "title": "Club Church",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Club_church%2C_Kerkstraat_52%2C_Amsterdam.jpg",
+        "description": "Club chUrch is een queer discotheek die bekend staat om haar inclusieve, sekspositieve sfeer en gevarieerde thema-avonden. De club aan de Kerkstraat bestaat sinds 2008.",
+        "url": "https://www.clubchurch.nl/"
+      },
+      "id": "54aa40ba-0c3a-46db-8f08-85722b631f03"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8309038718235335,
+          52.39123515919889
+        ]
+      },
+      "properties": {
+        "title": "Club Raum",
+        "image": "https://images.nrc.nl/aC8p0U5iZoPsEtE_JKmuUseeq2U=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data123295984-295a5d.jpg",
+        "description": "Club RAUM (sinds 2024) is een queer club waar de focus ligt op vernieuwende, experimentele programmering en lange nachten en weekenders met diverse line-ups. De feesten vinden vaak plaats in meerdere ruimtes, elk met een eigen sfeer. Door het strikte foto- en videoverbod blijft de aandacht op de dansvloer en op elkaar.",
+        "url": "https://www.clubraum.nl/"
+      },
+      "id": "28bf7fec-f6b0-46e3-a651-7ffb0a39d8a7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.872000820959102,
+          52.36603199844594
+        ]
+      },
+      "properties": {
+        "title": "Pamela",
+        "image": "https://cdn.shopify.com/s/files/1/0018/7793/4115/files/240643361_375294423986175_5078307688267276742_n_1024x1024.jpg?v=1637841997",
+        "description": "Bar Pamela (geopend in 2020) is een kleurrijke queer bar in Amsterdam-Oud-West, veelal bezocht op FLINTA-publiek. De bar serveert cocktails en vegan-friendly bites in een creatieve, neonachtige setting met veel kunst en muziek. ’s Avonds verandert Pamela regelmatig in een levendige uitgaansplek met dj-sets, drag en queer events.",
+        "url": "https://www.instagram.com/pamela.amsterdam/"
+      },
+      "id": "3c27907d-363f-460e-be6b-22efe6ac9fce"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892529640093076,
+          52.37653211304116
+        ]
+      },
+      "properties": {
+        "title": "Gays and Gadgets",
+        "image": "http://www.simplyamsterdam.nl/img/gays-and-gadgets.jpg",
+        "description": "In de Amsterdamse Spuistraat huist Gays & Gadgets. Met een zorgvuldig geselecteerd assortiment cadeaus en gadgets slaat de cadeauwinkel aand bij gays én hetero publiek, dat naast toeristen vooral uit lokale Amsterdammers bestaat.",
+        "url": "https://www.gaysandgadgets.com/"
+      },
+      "id": "12e6532b-45ec-41d3-8cbf-cfe12f4b9c50"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.823457723701927,
+          52.3354607559241
+        ]
+      },
+      "properties": {
+        "title": "Park de Oeverlanden",
+        "image": "https://slotenoudosdorp.nl/wp-content/uploads/2022/09/De-Oeverlanden-markeren-cruisegebied-foto-Hans-Bootsma.jpg",
+        "description": "De Oeverlanden is een natuurgebied aan de rand van het Amsterdamse Bos dat al jarenlang bekendstaat als een populaire ontmoetingsplek voor mannen die mannen ontmoeten. Dankzij de beschutte paden en groene omgeving biedt het gebied ruimte voor zowel recreatie als informele sociale contacten.",
+        "url": "https://www.amsterdam.nl/leefomgeving/parken-recreatiegebieden/oeverlanden/"
+      },
+      "id": "49e1514c-be99-4dfa-ab80-603e240ced98"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9178442842753585,
+          52.37272457825667
+        ]
+      },
+      "properties": {
+        "title": "Het Marineterrein",
+        "image": "https://marineterrein.nl/wp-content/uploads/2023/09/BeemFlights-Marineterrein2023-13-e1695902136771.jpg",
+        "description": "Mensen noemen het Marineterrein het “Amsterdam's gay beach\", omdat veel queer mannen hier in de zomer graag samenkomen om te zwemmen en te zonnebaden.",
+        "url": "https://marineterrein.nl/"
+      },
+      "id": "7c85747d-23c6-48fa-abe1-b0ee1849fb89"
+    }
+  ]
+}
