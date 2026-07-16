@@ -31,7 +31,7 @@
       "properties": {
         "title": "Café 't Mandje",
         "image": "https://image.parool.nl/180292638/feature-crop/1200/900/interieur-vol-memorabilia-bet-van-beeren-de-koningin-van-de",
-        "description": "Café 't Mandje is een historische bruine kroeg die in 1927 werd geopend door de openlijk lesbische Bet van Beeren. Het groeide uit tot een veilige ontmoetingsplek voor homo’s, lesbiennes en andere kleurrijke bezoekers in een tijd waarin dat uitzonderlijk was.",
+        "description": "Café 't Mandje is een historische bruine kroeg die in 1927 werd geopend door de openlijk lesbische Bet van Beeren. Het groeide uit tot een veilige ontmoetingsplek voor homo’s, lesbiennes en andere kleurrijke bezoekers in een tijd waarin dat uitzonderlijk was. ",
         "url": "https://www.cafetmandje.amsterdam/"
       },
       "id": "5f5f6e26-38ab-4e9e-8b2b-bd5ee548163b"
@@ -115,11 +115,11 @@
       },
       "properties": {
         "title": "Gays and Gadgets",
-        "image": "https://d3fphkxyf5o5bm.cloudfront.net/image-resize/format=webp,w=720/QwRY54Li1HMwD7oNfq9Keg1AnZwUgHZqgc2N9CS3xK",
+        "image": "http://www.simplyamsterdam.nl/img/gays-and-gadgets.jpg",
         "description": "In de Amsterdamse Spuistraat huist Gays & Gadgets. Met een zorgvuldig geselecteerd assortiment cadeaus en gadgets slaat de cadeauwinkel aand bij gays én hetero publiek, dat naast toeristen vooral uit lokale Amsterdammers bestaat.",
         "url": "https://www.gaysandgadgets.com/"
       },
-      "id": "12e6532b-45ec-41d3-8cbf-cfe12f4b9c50"
+      "id": "aaa8d787-687f-4ac7-a690-2adb49405326"
     },
     {
       "type": "Feature",
@@ -158,22 +158,291 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            4.90089,
-            52.37484
-          ],
-          [
-            4.9012,
-            52.375
-          ]
+          4.891978826466329,
+          52.366308992783125
         ]
       },
       "properties": {
-        "title": "2026 World Pride",
-        "description": ""
-      }
+        "title": "RITA Community Center",
+        "image": "https://image.parool.nl/264309834/width/2480/rita-aan-de-reguliersdwarsstraat-je-kunt-hier-ook-gewoon-even",
+        "description": "",
+        "url": "https://www.ritacommunity.com/"
+      },
+      "id": "e17fe2e4-bfd7-44e5-91e3-8513553d5596"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.863603471933292,
+          52.35773649108938
+        ]
+      },
+      "properties": {
+        "title": "Rozentuin Vondelpark",
+        "image": "https://www.inhetvondelpark.nl/gallery/thumbnails/8898-20260630.jpg",
+        "description": "",
+        "url": ""
+      },
+      "id": "f32a10b4-e516-402a-814f-3a28fb235bab"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80179552776673,
+          52.363198301085426
+        ]
+      },
+      "properties": {
+        "title": "Pink Nieuw West",
+        "image": "",
+        "description": "Pink Nieuw-West is een initiatief voor en door LHBTI+ers in Amsterdams grootste stadsdeel Nieuw-West. Zee organiseren bijeenkomsten, die in principe openstaan voor iedereen, voor ontmoeting, ondersteuning, vieren en herdenken. Maar ook voor belangenbehartiging van de LHBTIQ+ gemeenschap als geheel en om te strijden voor onze rechten.",
+        "url": "https://www.pinknieuwwest.org/"
+      },
+      "id": "13ee61a2-5ad0-4dee-bfa1-d7c2190db5f1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.884967852904412,
+          52.37427432163092
+        ]
+      },
+      "properties": {
+        "title": "Pink Point",
+        "image": "https://pinkpoint.nl/wp-content/uploads/2023/06/pink_point_amsterdam02.jpg",
+        "description": "",
+        "url": "https://pinkpoint.nl/"
+      },
+      "id": "904d5357-fb47-47fd-afb2-a0b7bfce6348"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892622268794666,
+          52.35538918027408
+        ]
+      },
+      "properties": {
+        "title": "Bar Buka",
+        "image": "https://barbuka.nl/wp-content/uploads/2021/05/barbuka-home-visual-scaled.jpg",
+        "description": "",
+        "url": "https://barbuka.nl/"
+      },
+      "id": "bec8685a-49d7-45fa-b72f-57ed74a4d982"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92573776639809,
+          52.38553694822379
+        ]
+      },
+      "properties": {
+        "title": "Boogieland Queerboxing",
+        "image": "https://boogieland.nl/wp-content/uploads/2026/07/banner-kopie.jpg",
+        "description": "",
+        "url": "https://boogieland.nl/"
+      },
+      "id": "0aaac4be-6179-4b0b-b738-111945e91c13"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.890829755302337,
+          52.374818870476815
+        ]
+      },
+      "properties": {
+        "title": "Bar Prik",
+        "image": "https://static.wixstatic.com/media/5dc496_33e3d29782244710863b7221bc437422~mv2.jpeg/v1/crop/x_187,y_0,w_1387,h_991/fill/w_888,h_634,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Terras-2021-gayvbar-Prik-Amsterdam.jpeg",
+        "description": "",
+        "url": "https://www.prikamsterdam.nl/"
+      },
+      "id": "a2be67fa-97ac-4bdc-9082-358b6ce7d3f9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.897422039959525,
+          52.36583315022825
+        ]
+      },
+      "properties": {
+        "title": "Lellebel",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Blkko17Fph3W4f6FdrT2dEvZEk0HrbmSMEvFsOkVdSFGVqBsPiIwU1wM&s=10",
+        "description": "",
+        "url": "https://www.lellebel.nl/"
+      },
+      "id": "13b2c026-9aee-4a74-9699-76b7d9c89350"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.927608555302372,
+          52.37613756654911
+        ]
+      },
+      "properties": {
+        "title": "Mezrab",
+        "image": "https://mezrab.nl/wp-content/uploads/Mezrab_Photographer_Karl-Giesriegl-12-1024x684.jpg",
+        "description": "",
+        "url": "https://mezrab.nl/"
+      },
+      "id": "c0964261-de6a-4d2a-b2a3-61918192baf0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928386427766727,
+          52.36337409423514
+        ]
+      },
+      "properties": {
+        "title": "We Are Queer - Amsterdam Oost",
+        "image": "https://wearequeer.nl/wp-content/uploads/2022/08/the-gym-3.jpg",
+        "description": "",
+        "url": "https://wearequeer.nl/en/about-us/the-gym/"
+      },
+      "id": "e5c663b3-fe41-448d-aee3-2659873dba90"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836899133834536,
+          52.38710685989078
+        ]
+      },
+      "properties": {
+        "title": "We Are Queer - Amsterdam West",
+        "image": "https://wearequeer.nl/wp-content/uploads/2022/08/the-gym-3.jpg",
+        "description": "",
+        "url": "https://wearequeer.nl/en/about-us/the-gym/"
+      },
+      "id": "5fe7d45f-1373-448e-ae33-40d9e758fc68"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.889154026466585,
+          52.37167797772321
+        ]
+      },
+      "properties": {
+        "title": "Vrankrijk",
+        "image": "https://static.ra.co/images/clubs/vrankrijk-amsterdam-4kn1t.jpeg?dateUpdated=1714382515913",
+        "description": "",
+        "url": "https://vrankrijk.org/"
+      },
+      "id": "93cd5ed5-b87d-4aad-be15-154fb7df9fcb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.843898512973355,
+          52.370995082151836
+        ]
+      },
+      "properties": {
+        "title": "Tillatec",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e198f9936e1946cee70771/3431a186-c02b-4f3a-8bfc-2342c2da27e8/DSC08800.jpg",
+        "description": "",
+        "url": "https://www.tillatec.com/"
+      },
+      "id": "ad9750d1-83d6-4533-910a-1252b216dc7e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.903539162698147,
+          52.35103620068733
+        ]
+      },
+      "properties": {
+        "title": "ReRoll Works LGBTQIA+ Board Gayming Salon",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAvbrYOrf_d_q-ET_ZcXOGfeX5FiSWaeygzHLlbbKgki9WMZjNxolCOI&s=10",
+        "description": "",
+        "url": "https://rerollworks.com/"
+      },
+      "id": "81bcf875-53a2-4f92-a9cb-4f7ed2f4f2ad"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8888946909863895,
+          52.38214405765117
+        ]
+      },
+      "properties": {
+        "title": "Queer Market Store",
+        "image": "https://image.parool.nl/272295141/feature-crop/1200/900/afbeelding",
+        "description": "",
+        "url": "https://queermarket.com/"
+      },
+      "id": "f8e101ed-e48e-4616-8512-4a9adc04a3cd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90910822961649,
+          52.375944717331095
+        ]
+      },
+      "properties": {
+        "title": "IHLIA LGBTI Heritage",
+        "image": "https://ihlia.nl/wp-content/uploads/2021/01/IHLIA-plein-1024x683.jpg",
+        "description": "",
+        "url": "https://ihlia.nl/"
+      },
+      "id": "059d42ac-ce0f-4146-a00f-88629bf5a93f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891460099479981,
+          52.366410597107624
+        ]
+      },
+      "properties": {
+        "title": "Club NYX",
+        "image": "https://www.reguliers.net/pictures/nyx04.jpg",
+        "description": "",
+        "url": "https://clubnyx.nl/"
+      },
+      "id": "26e7e1d1-26f3-4432-87c4-a26b03e0047f"
     }
   ]
 }
